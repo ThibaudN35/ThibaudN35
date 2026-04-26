@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 , I'm Thibaud
+
+System / DevOps engineer.
+
+I enjoy working with Linux, automation and containerized environments.
+
+This repo is just a place for some labs and experiments around infra, monitoring and tooling.
+
+Nothing fancy, just trying things out.
+
+- 📫 How to reach me: thibaud@naegele.bzh
 
 <!--
 **ThibaudN35/ThibaudN35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
